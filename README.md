@@ -20,9 +20,6 @@ The SPPU Mark Calculator and Converter is a simple React app that helps students
 - User -Friendly: Provides quick and easy results for academic tracking.
 
 ### Technologies Used
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css)
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,react)
 
-![preview img](/img/portfilio-img.png)
-
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png
 
